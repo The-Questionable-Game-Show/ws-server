@@ -1,0 +1,25 @@
+{
+  "name": "ws-server",
+  "version": "1.0.0",
+  "description": "Our WebSocket server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Questionable-Game-Show/ws-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/The-Questionable-Game-Show/ws-server/issues"
+  },
+  "homepage": "https://github.com/The-Questionable-Game-Show/ws-server#readme",
+  "dependencies": {
+    "uuid": "^14.0.0",
+    "ws": "^8.20.0"
+  }
+}
